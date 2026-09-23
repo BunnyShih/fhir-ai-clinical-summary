@@ -78,7 +78,7 @@ demonstrates the correct approach.
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourname/fhir-ai-clinical-summary
+git clone https://github.com/BunnyShih/fhir-ai-clinical-summary
 cd fhir-ai-clinical-summary
 
 python -m venv venv
